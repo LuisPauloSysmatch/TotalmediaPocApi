@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalmediaPOCApi", "TotalmediaPOCApi\TotalmediaPOCApi.csproj", "{A764400D-2E10-4340-AE21-0AEE5C64043D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A764400D-2E10-4340-AE21-0AEE5C64043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A764400D-2E10-4340-AE21-0AEE5C64043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A764400D-2E10-4340-AE21-0AEE5C64043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A764400D-2E10-4340-AE21-0AEE5C64043D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E862E9B9-672B-4FD7-89C8-3A1434C8FC2F}
+	EndGlobalSection
+EndGlobal
